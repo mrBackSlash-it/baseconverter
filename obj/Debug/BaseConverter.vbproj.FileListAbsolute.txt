@@ -1,0 +1,10 @@
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\bin\Debug\BaseConverter.exe.config
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\bin\Debug\BaseConverter.exe
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\bin\Debug\BaseConverter.pdb
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\bin\Debug\BaseConverter.xml
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\obj\Debug\BaseConverter.Form1.resources
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\obj\Debug\BaseConverter.Resources.resources
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\obj\Debug\BaseConverter.vbproj.GenerateResource.cache
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\obj\Debug\BaseConverter.exe
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\obj\Debug\BaseConverter.xml
+S:\ITIS Di Maggio\Programmazione\BaseConverter\BaseConverter\obj\Debug\BaseConverter.pdb
